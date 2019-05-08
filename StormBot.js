@@ -29,4 +29,4 @@ client.on("message", async message => {
 	}
 });
 
-client.login("MzEwOTc2OTcwNjAxMTM2MTI4.XL1UDA.acbYg_46VOOHA1iaBWUigkI7lI0")
+client.login("No Key Here")
